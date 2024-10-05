@@ -41,8 +41,7 @@
     <img src="https://avatars.githubusercontent.com/u/161781182?s=200&v=4" alt="gemini pro" width="40" height="40"/>
   </a>
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/6baf5a33-4120-4dd3-b650-6f13c5008439
-" alt="openai" width="40" height="40"/>
+    <img src="https://github.com/user-attachments/assets/5f403872-dd92-4a6f-bc56-4d7b413e52b6" alt="openai" width="40" height="40"/>
   </a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
