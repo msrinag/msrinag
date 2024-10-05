@@ -36,6 +36,21 @@
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
   </a>
+  <a href="https://python.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/images/langchain.png" alt="langchain" width="40" height="40"/>
+  </a>
+  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Google_Gemini_logo.svg/512px-Google_Gemini_logo.svg.png" alt="gemini pro" width="40" height="40"/>
+  </a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" alt="openai" width="40" height="40"/>
+  </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/facebookresearch/llama" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/llama/llama-original.svg" alt="llama" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Personal Projects:</h3>
