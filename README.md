@@ -37,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
   </a>
  <a href="https://python.langchain.com/" target="_blank" rel="noreferrer" width="40" height="40">
-   <h1 🦜️🔗/> 
+   <img alt="🦜️🔗"/> 
  </a>
   <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/161781182?s=200&v=4" alt="gemini pro" width="40" height="40"/>
