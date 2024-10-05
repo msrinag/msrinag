@@ -1,4 +1,4 @@
-[<h1 align="center">Hi 👋, I'm Srinag Marni</h1>
+<h1 align="center">Hi 👋, I'm Srinag Marni</h1>
 <h3 align="center">Graduate student in Data Science at the State University of New York, Buffalo, and experienced .NET Developer with a passion for solving complex problems, exploring LLMs, Retrieval-Augmented Generation (RAG), and leveraging AI/ML technologies.</h3>
 
   
