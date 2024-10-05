@@ -48,7 +48,7 @@
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
   </a>
-  <a href="https://github.com/facebookresearch/llama" target="_blank" rel="noreferrer" width="40" height="40"><b style="font-size: 40px;">🦙<b/></a>
+  <a href="https://github.com/facebookresearch/llama" target="_blank" rel="noreferrer" width="40" height="40"> <span style="font-size: 40px;">🦙</span></a>
 </p>
 
 <h3 align="left">Personal Projects:</h3>
