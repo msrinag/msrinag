@@ -39,7 +39,7 @@
 <h3 align="left">Personal Projects:</h3>
 <ul>
   <li>🔧 <strong>AutoPitch - Cold Email Generator</strong> - Generates customized cold emails from job postings using LangChain, Gemini and FAISS.</li>
-  <li>🔧 <strong>[Story Image Generator](https://colab.research.google.com/drive/14o50hfO4eGWL47h2B4W_yUejPf_4fSYd?usp=sharing) </strong> - Converts story paragraphs into illustrative images</li>
+  <li>🔧 <strong><a href="https://colab.research.google.com/drive/14o50hfO4eGWL47h2B4W_yUejPf_4fSYd?usp=sharing">Story Image Generator</a></strong> - Converts story paragraphs into illustrative images.</li>
   <li>🔧 <strong>Car Resale Price Prediction App</strong> - ML model predicting resale prices</li>
   <li>🔧 <strong>Gesture Based Mouse Control</strong> - Face detection using image processing</li>
 </ul>
