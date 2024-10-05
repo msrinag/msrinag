@@ -40,7 +40,7 @@
 <ul>
   <li>🔧 <strong><a href="https://github.com/msrinag/AutoPitch">AutoPitch</a> - Cold Email Generator</strong> - Generates customized cold emails from job postings using LangChain, Gemini and FAISS.</li>
   <li>🔧 <strong><a href="https://colab.research.google.com/drive/14o50hfO4eGWL47h2B4W_yUejPf_4fSYd?usp=sharing">Story Image Generator</a></strong> - Converts story paragraphs into illustrative images.</li>
-  <li>🔧 <strong><a<a href="https://pricemaster.streamlit.app/">Car Resale Price Prediction App</a></strong> - ML model predicting resale prices</li>
+  <li>🔧 <strong><a href="https://pricemaster.streamlit.app/">Car Resale Price Prediction App</a></strong> - ML model predicting resale prices</li>
   <li>🔧 <strong>Gesture Based Mouse Control</strong> - Face detection using image processing</li>
   <li>🔧 <strong><a href="https://colab.research.google.com/drive/1Z_8bD2vdM8ohc2TpGwHENn6jc9suPaBo?usp=sharing">AI Weather Report</a></strong> - AI-driven tool providing real-time weather forecasts and summaries based on user-selected locations.</li>
   <li>🔧 <strong><a href="https://20171cse0680.github.io/dv/">Zomato Data Analysis</a></strong> - Analyzes Zomato restaurant data to explore cuisine types and ratings, focusing on the Delhi area.</li>
