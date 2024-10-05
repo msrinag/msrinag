@@ -61,4 +61,3 @@
   <li>🔧 <strong><a href="https://20171cse0680.github.io/dv/">Zomato Data Analysis</a></strong> - Analyzes Zomato restaurant data to explore cuisine types and ratings, focusing on the Delhi area.</li>
 
 </ul>
-](https://colab.research.google.com/drive/1Z_8bD2vdM8ohc2TpGwHENn6jc9suPaBo?usp=sharing)
