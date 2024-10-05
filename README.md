@@ -36,8 +36,8 @@
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
   </a>
- <a href="https://python.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/LangChainAI/langchain/main/docs/images/log.svg" alt="🦜️🔗" width="40" height="40"/>
+ <a href="https://python.langchain.com/" target="_blank" rel="noreferrer" width="40" height="40"/>>
+   🦜️🔗
   </a>
   <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/3826/3826148.png" alt="gemini pro" width="40" height="40"/>
