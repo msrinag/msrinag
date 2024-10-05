@@ -38,8 +38,7 @@
 
 <h3 align="left">Personal Projects:</h3>
 <ul>
-<li>🔧 <strong>AutoPitch - Cold Email Generator</strong> - A tool for generating customized cold emails by scanning job postings and matching skills to portfolios. Built using **LangChain**, **Google Gemini Pro 1.5**, **FAISS**, and **Streamlit**.</li>
-
+  <li>🔧 <strong>AutoPitch - Cold Email Generator</strong> - Generates customized cold emails from job postings using *LangChain*, *Google Gemini Pro 1.5* and, *FAISS*.</li>
   <li>🔧 <strong>Story Image Generator</strong> - Converts story paragraphs into illustrative images</li>
   <li>🔧 <strong>Car Resale Price Prediction App</strong> - ML model predicting resale prices</li>
   <li>🔧 <strong>Gesture Based Mouse Control</strong> - Face detection using image processing</li>
