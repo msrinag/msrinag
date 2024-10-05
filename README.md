@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Srinag Marni</h1>
+[<h1 align="center">Hi 👋, I'm Srinag Marni</h1>
 <h3 align="center">Graduate student in Data Science at the State University of New York, Buffalo, and experienced .NET Developer with a passion for solving complex problems, exploring LLMs, Retrieval-Augmented Generation (RAG), and leveraging AI/ML technologies.</h3>
 
   
@@ -9,6 +9,8 @@
 - 💬 Feel free to ask me about **LLM, RAT, RAG, .NET, Python, Machine Learning, AI, and Data Science**
 
 - 📫 How to reach me: **msrinag@gmail.com, srinagma@buffalo.edu**
+
+- 🌟 Know More | <a href="https://drive.google.com/file/d/1ThOTlbARmXcL6apmDF-jB6F3k49bYYaa/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,3 +48,4 @@
   <li>🔧 <strong><a href="https://20171cse0680.github.io/dv/">Zomato Data Analysis</a></strong> - Analyzes Zomato restaurant data to explore cuisine types and ratings, focusing on the Delhi area.</li>
 
 </ul>
+](https://colab.research.google.com/drive/1Z_8bD2vdM8ohc2TpGwHENn6jc9suPaBo?usp=sharing)
