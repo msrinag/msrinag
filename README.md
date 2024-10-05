@@ -36,7 +36,7 @@
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
   </a>
-   <a href="https://python.langchain.com/" target="_blank" rel="noreferrer" width="40" height="40" ><b>🦜️🔗/</b></a>
+   <a href="https://python.langchain.com/" target="_blank" rel="noreferrer" width="40" height="40" ><b>🦜️🔗</b></a>
  
  
   <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
@@ -49,7 +49,7 @@
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
   </a>
   <a href="https://github.com/facebookresearch/llama" target="_blank" rel="noreferrer" width="40" height="40">
-    <h1🦙/>
+    <b🦙/>
   </a>
 </p>
 
