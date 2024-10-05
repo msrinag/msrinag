@@ -36,20 +36,20 @@
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
   </a>
-  <a href="https://python.langchain.com/" target="_blank" rel="noreferrer">
+ <a href="https://python.langchain.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/LangChainAI/langchain/main/docs/images/logo.svg" alt="langchain" width="40" height="40"/>
   </a>
   <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Google_Gemini_logo.svg/512px-Google_Gemini_logo.svg.png" alt="gemini pro" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/3826/3826148.png" alt="gemini pro" width="40" height="40"/>
   </a>
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/OpenAI_Logo.svg/512px-OpenAI_Logo.svg.png" alt="openai" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968850.png" alt="openai" width="40" height="40"/>
   </a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
   </a>
   <a href="https://github.com/facebookresearch/llama" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/LLaMA_logo.svg/1024px-LLaMA_logo.svg.png" alt="llama" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/8687/8687197.png" alt="llama" width="40" height="40"/>
   </a>
 </p>
 
