@@ -53,6 +53,7 @@
 
 <h3 align="left">Personal Projects:</h3>
 <ul>
+  <li>🔧 <strong><a href="https://github.com/msrinag/CipherStockX">CipherStockX</a> - Real-time Stock Analysis Platform</strong> - Decodes market trends and insights using AI, sentiment analysis, and SEC filing data to deliver tailored stock performance and trading recommendations via a Streamlit-based dashboard.</li>
   <li>🔧 <strong><a href="https://github.com/msrinag/AutoPitch">AutoPitch</a> - Cold Email Generator</strong> - Generates customized cold emails from job postings using LangChain, Gemini, RAG and FAISS.</li>
   <li>🔧 <strong><a href="https://colab.research.google.com/drive/14o50hfO4eGWL47h2B4W_yUejPf_4fSYd?usp=sharing">Story Image Generator</a></strong> - Converts story paragraphs into illustrative images using Difusion Models.</li>
   <li>🔧 <strong><a href="https://pricemaster.streamlit.app/">Car Resale Price Prediction App</a></strong> - ML model predicting resale prices</li>
