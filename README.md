@@ -59,6 +59,6 @@
   <li>🔧 <strong><a href="https://pricemaster.streamlit.app/">Car Resale Price Prediction App</a></strong> - ML model predicting resale prices</li>
   <li>🔧 <strong>Gesture Based Mouse Control</strong> - Face detection using image processing</li>
   <li>🔧 <strong><a href="https://colab.research.google.com/drive/1Z_8bD2vdM8ohc2TpGwHENn6jc9suPaBo?usp=sharing">AI Weather Report</a></strong> - AI-driven tool providing real-time weather forecasts and summaries based on user-selected locations.</li>
-  <li>🔧 <strong><a href="https://20171cse0680.github.io/dv/">Zomato Data Analysis</a></strong> - Analyzes Zomato restaurant data to explore cuisine types and ratings, focusing on the Delhi area.</li>
+  <li>🔧 <strong><a href="https://msrinag.github.io/dv/">Zomato Data Analysis</a></strong> - Analyzes Zomato restaurant data to explore cuisine types and ratings, focusing on the Delhi area.</li>
 
 </ul>
