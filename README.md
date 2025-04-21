@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Srinag Marni</h1>
-<h3 align="center">Graduate student in Data Science at the State University of New York, Buffalo, and experienced .NET Developer with a passion for solving complex problems, exploring LLMs, Retrieval-Augmented Generation (RAG), and leveraging AI/ML technologies.</h3>
+<h3 align="center">Java Full Stack Developer with a passion for solving complex problems, exploring LLMs, Retrieval-Augmented Generation (RAG), and leveraging AI/ML technologies.</h3>
 
   
-- 💼 I have professional experience as a **Systems Engineer at TCS**, developing standalone .NET applications for major automotive clients
+
   
 - 👨‍💻 Check out my old projects on GitHub: [https://github.com/20171CSE0680](https://github.com/20171CSE0680)
 
 - 💬 Feel free to ask me about **LLM, RAT, RAG, .NET, Python, Machine Learning, AI, and Data Science**
 
-- 📫 How to reach me: **msrinag@gmail.com, srinagma@buffalo.edu**
 
-- 🌟 Know More | <a href="https://drive.google.com/file/d/1ThOTlbARmXcL6apmDF-jB6F3k49bYYaa/view?usp=sharing">Resume</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
