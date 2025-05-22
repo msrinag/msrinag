@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Srinag Marni</h1>
+<h1 align="center">Hi 👋, I'm Srinag</h1>
 <h3 align="center">Java Full Stack Developer with a passion for solving complex problems, exploring LLMs, Retrieval-Augmented Generation (RAG), and leveraging AI/ML technologies.</h3>
 
   
@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/srinag-marni" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srinag-marni" height="30" width="40" />
+  <a href="https://linkedin.com/in/srinag-" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srinag" height="30" width="40" />
   </a>
 </p>
 
